@@ -66,4 +66,4 @@ If you use the prompt or code, please cite the paper above.
 
 ## Contact
 
-[Sachin Grover](mailto: grovers1@chop.edu), Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia
+[Sachin Grover](mailto:grovers1@chop.edu), Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia
