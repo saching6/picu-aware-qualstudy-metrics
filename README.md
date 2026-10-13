@@ -38,10 +38,8 @@ The human and model values are not directly comparable. The reference standard w
 1. Install Python 3.10 or later and the dependencies:
 
    ```bash
-   pip install pandas openpyxl python-docx jupyter
+   pip install pandas openpyxl jupyter
    ```
-
-   `python-docx` is needed only for the optional Word export of the table.
 
 2. Place the 5 input files in a folder named `data/` next to the notebook (or set `DATA_DIR` in the first code cell):
 
@@ -52,7 +50,7 @@ The human and model values are not directly comparable. The reference standard w
    | `model_codes_holdout.json` | LLM output in the schema defined in `LLM_coding_prompt.md` (`domainA_codes`, `domainB_codes`, `domainC_codes`, each a list of `{code, confidence, ...}`) |
    | `Final_Codebook.xlsx` | Codebook with a `Codes` sheet mapping each code to its domain |
 
-3. Run all cells. The notebook writes `table_s5.csv`, `table_s5_error_rates.csv`, and `table_s5.docx`. It also checks that all 4 coding files cover the same excerpts and lists any unrecognized code labels.
+3. Run all cells. The notebook writes `table_s5.csv` and `table_s5_error_rates.csv`. It also checks that all 4 coding files cover the same excerpts and lists any unrecognized code labels.
 
 Data availability: the input files are not included in this repository. Transcripts contain verbatim clinical discussion and are not publicly available; see the Data Availability Statement in the paper.
 
