@@ -1,4 +1,4 @@
-# Supplementary File S1. LLM Coding Prompt
+# LLM Coding Prompt
 
 *Prompt submitted verbatim to Microsoft Copilot Chat (GPT-5.6) on July 28, 2026, in a new chat session for each of the 15 non-seed transcripts, followed by that transcript's excerpts. The codebook attached to the prompt is reproduced in Table S1. Few-shot examples are drawn from the human-coded seed transcripts (P1, P6), which were excluded from the validation holdout. In this file, JSON is shown in code blocks; the prompt text is otherwise unchanged.*
 
