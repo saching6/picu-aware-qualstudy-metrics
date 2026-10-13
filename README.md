@@ -54,11 +54,11 @@ The human and model values are not directly comparable. The reference standard w
 
 3. Run all cells. The notebook writes `table_s5.csv`, `table_s5_error_rates.csv`, and `table_s5.docx`. It also checks that all 4 coding files cover the same excerpts and lists any unrecognized code labels.
 
-[Data availability: the input files are not included in this repository. Transcripts contain verbatim clinical discussion and are not publicly available; see the Data Availability Statement in the paper.]
+Data availability: the input files are not included in this repository. Transcripts contain verbatim clinical discussion and are not publicly available; see the Data Availability Statement in the paper.
 
 ## Citation
 
-If you use the prompt or code, please cite the paper above. [Add Zenodo DOI once archived.]
+If you use the prompt or code, please cite the paper above.
 
 ## License
 
@@ -66,4 +66,4 @@ If you use the prompt or code, please cite the paper above. [Add Zenodo DOI once
 
 ## Contact
 
-Sachin Grover, Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia
+[Sachin Grover](mailto: grovers1@chop.edu), Department of Biomedical and Health Informatics, Children's Hospital of Philadelphia
